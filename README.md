@@ -1,4 +1,4 @@
-# [Personal website ](https://shekharpande.co.in)
+# [Personal website ](http://shekharpande.co.in)
 
 
 ## Preview
