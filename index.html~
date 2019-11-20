@@ -1,0 +1,335 @@
+
+
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <meta name="description" content="">
+      <meta name="author" content="">
+      <title>Java Android Developer</title>
+      <!-- Bootstrap core CSS -->
+      <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+      <!-- Custom fonts for this template -->
+      <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+      <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+      <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+      <!-- Plugin CSS -->
+      <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css">
+      <!-- Custom styles for this template -->
+      <link href="css/freelancer.min.css" rel="stylesheet">
+   </head>
+   <body id="page-top">
+      <!-- Navigation -->
+      <nav class="navbar navbar-expand-lg bg-secondary fixed-top text-uppercase" id="mainNav">
+         <div class="container">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">Shekhar Pande </a>
+            <button class="navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            Menu
+            <i class="fas fa-bars"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+               <ul class="navbar-nav ml-auto">
+                  <li class="nav-item mx-0 mx-lg-1">
+                     <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#portfolio">Portfolio</a>
+                  </li>
+                  <li class="nav-item mx-0 mx-lg-1">
+                     <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#about">About</a>
+                  </li>
+                  <li class="nav-item mx-0 mx-lg-1">
+                     <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#contact">Contact</a>
+                  </li>
+               </ul>
+            </div>
+         </div>
+      </nav>
+      <!-- Header -->
+      <header class="masthead bg-primary text-white text-center">
+         <div class="container">
+            <img class="img-fluid mb-5 d-block mx-auto" src="img/profile.png" alt="" style="height: 250px; width: 250px">
+            <h1 class="text-uppercase mb-0">Shekhar Pande</h1>
+            <hr class="star-light">
+            <h2 class="font-weight-light mb-0">Android Developer - Core Java Developer </h2>
+            <h2 class="font-weight-light mb-0">(spande6@gmail.com/9405164814)</h2>
+         </div>
+      </header>
+      <!-- Portfolio Grid Section -->
+      <section class="portfolio" id="portfolio">
+         <div class="container">
+            <h2 class="text-center text-uppercase text-secondary mb-0">Portfolio</h2>
+            <hr class="star-dark mb-5">
+            <div class="row">
+               <div class="col-md-6 col-lg-4">
+                  <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-1">
+                     <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                           <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                     </div>
+                     <img class="img-fluid" src="img/portfolio/ald.jpg" alt="">
+                  </a>
+               </div>
+               <div class="col-md-6 col-lg-4">
+                  <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-2">
+                     <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                           <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                     </div>
+                     <img class="img-fluid" src="img/portfolio/nls.jpg" alt="">
+                  </a>
+               </div>
+               <div class="col-md-6 col-lg-4">
+                  <a class="portfolio-item d-block mx-auto" href="#portfolio-modal-3">
+                     <div class="portfolio-item-caption d-flex position-absolute h-100 w-100">
+                        <div class="portfolio-item-caption-content my-auto w-100 text-center text-white">
+                           <i class="fas fa-search-plus fa-3x"></i>
+                        </div>
+                     </div>
+                     <img class="img-fluid" src="img/portfolio/wik.png" alt="">
+                  </a>
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- About Section -->
+      <section class="bg-primary text-white mb-0" id="about">
+         <div class="container">
+            <h2 class="text-center text-uppercase text-white">About</h2>
+            <hr class="star-light mb-5">
+            <div class="row">
+               <p class="lead">An Innovative and highly motivated professional in the software development field for 3 years and 10 months,seeking achallenging environment to secure a growth-oriented position in an organization where challenges exist for innovative and
+                  creative professionals.
+               </p>
+            </div>
+            <hr class="star-light mb-5">
+            <div class="row">
+               <div class="col-lg-6 ml-auto">
+                  <p class="lead">
+                  <ul>
+                     <li>IBM Certified Associate JAVA Developer &ndash; Rational Application Developer for Websphere Software V6.0</li>
+                     <li>Worked primarily on Android mobile application development along with Standalone and multi-tier enterprise systems in JAVA.</li>
+                     <li>Experience in multiple IDEs and frameworks including Android Studio, IntelliJ Idea, Eclipse, and NetBeans.</li>
+                     <li>Expertise in Front End Application Development along with Middle Tier Webservice Development.</li>
+                     <li>Expertise in using the Android SDK, Java Development Kit (JDK), external libraries and SDKs like Pub Nub,Parse.com, Glide, Volley.</li>
+                     <li>Expertise in Android, Java programming.<br />Good knowledge of Java FX, asp.net, EJB (Enterprise java bean) Frameworks.</li>
+                     <li>Expertise in XML, REST, JSON, SOAP, Volley implementation.</li>
+                     <li>Have a various role at the end to end development phases of 9 commercial, 25 engineering IEEE based, and 12diploma-based application development.</li>
+                     <li>Proficient in handling and maintaining database systems using SQL Server, MySQL Workbench, Derby, PhpMyAdmin, Firebase, QuickBlox, SQLite.</li>
+                  </ul>
+                  </p>
+               </div>
+               <div class="col-lg-6 mr-auto">
+                  <p class="lead">
+                  <ul>
+                     <li>Experienced in the creation of AWS infrastructure and maintaining them.</li>
+                     <li>Proficient in Structured Query Language (SQL), PL-SQL.</li>
+                     <li>Expertise in version control systems using SVN, Git, Bitbucket.</li>
+                     <li>Expertise in using Manual testing strategies along with Automated testing using JUNIT, Mockito, Espresso.</li>
+                     <li>Working experience of using JIRA for AGILE project management and bug tracking and architectures like MVC, MVP,<br />MVVM.</li>
+                     <li>Some key project developed includes Vision Board Aladdin, Natural Life Style (Health by Eating) Mohan Gupta,<br />FlipLocation, Navkar android App, Cool Cabs, Advanced Emergency help application, Carpooling Application, LAN<br />controlling application using Android, Vehicle Hiring System using EJB.</li>
+                     <li>Common libraries and tools which help me in developing process: Android Support Library, Dagger 2,ButterKnife,<br />EventBus, RX JAVA, ORMLITE, AppsFlyer, Optimizely, AppSee, Farebase, Google Analytics</li>
+                  </ul>
+                  </p>
+               </div>
+            </div>
+            <div class="text-center mt-4">
+               <a class="btn btn-xl btn-outline-light" href="resume/spande6@gmail.com_4yr_android_9405164814_v1.6.pdf">
+               <i class="fas fa-download mr-2"></i>
+               Download Resume!
+               </a>
+            </div>
+         </div>
+      </section>
+      <!-- Contact Section -->
+      <section id="contact">
+         <div class="container">
+            <h2 class="text-center text-uppercase text-secondary mb-0">Contact Me</h2>
+            <hr class="star-dark mb-5">
+            <div class="row">
+               <div class="col-lg-8 mx-auto">
+                  <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
+                  <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
+                  <form name="sentMessage" id="contactForm" novalidate="novalidate">
+                     <div class="control-group">
+                        <div class="form-group floating-label-form-group controls mb-0 pb-2">
+                           <label>Name</label>
+                           <input class="form-control" id="name" type="text" placeholder="Name" required="required" data-validation-required-message="Please enter your name.">
+                           <p class="help-block text-danger"></p>
+                        </div>
+                     </div>
+                     <div class="control-group">
+                        <div class="form-group floating-label-form-group controls mb-0 pb-2">
+                           <label>Email Address</label>
+                           <input class="form-control" id="email" type="email" placeholder="Email Address" required="required" data-validation-required-message="Please enter your email address.">
+                           <p class="help-block text-danger"></p>
+                        </div>
+                     </div>
+                     <div class="control-group">
+                        <div class="form-group floating-label-form-group controls mb-0 pb-2">
+                           <label>Phone Number</label>
+                           <input class="form-control" id="phone" type="tel" placeholder="Phone Number" required="required" data-validation-required-message="Please enter your phone number.">
+                           <p class="help-block text-danger"></p>
+                        </div>
+                     </div>
+                     <div class="control-group">
+                        <div class="form-group floating-label-form-group controls mb-0 pb-2">
+                           <label>Message</label>
+                           <textarea class="form-control" id="message" rows="5" placeholder="Message" required="required" data-validation-required-message="Please enter a message."></textarea>
+                           <p class="help-block text-danger"></p>
+                        </div>
+                     </div>
+                     <br>
+                     <div id="success"></div>
+                     <div class="form-group">
+                        <button type="submit" class="btn btn-primary btn-xl" id="sendMessageButton">Send</button>
+                     </div>
+                  </form>
+               </div>
+            </div>
+         </div>
+      </section>
+      <!-- Footer -->
+      <footer class="footer text-center">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-4 mb-5 mb-lg-0">
+                  <h4 class="text-uppercase mb-4">Location</h4>
+                  <p class="lead mb-0">F.N. 1 Lakshami Narayn
+                     <br>Kalakhadak, Bhumkar Chowk, Pune
+                  </p>
+               </div>
+               <div class="col-md-4 mb-5 mb-lg-0">
+                  <h4 class="text-uppercase mb-4">Around the Web</h4>
+                  <ul class="list-inline mb-0">
+                     <li class="list-inline-item">
+                        <a class="btn btn-outline-light btn-social text-center rounded-circle" href="https://www.facebook.com/shekhar007pande">
+                        <i class="fab fa-fw fa-facebook-f"></i>
+                        </a>
+                     </li>
+                     <li class="list-inline-item">
+                        <a class="btn btn-outline-light btn-social text-center rounded-circle" href="https://plus.google.com/u/0/+shekharpandepatil?tab=wX">
+                        <i class="fab fa-fw fa-google-plus-g"></i>
+                        </a>
+                     </li>
+                     <li class="list-inline-item">
+                        <a class="btn btn-outline-light btn-social text-center rounded-circle" href="https://twitter.com/pande_s">
+                        <i class="fab fa-fw fa-twitter"></i>
+                        </a>
+                     </li>
+                     <li class="list-inline-item">
+                        <a class="btn btn-outline-light btn-social text-center rounded-circle" href="https://www.linkedin.com/in/shekhar-pande-74270292/">
+                        <i class="fab fa-fw fa-linkedin-in"></i>
+                        </a>
+                     </li>
+                    <!-- <li class="list-inline-item">
+                        <a class="btn btn-outline-light btn-social text-center rounded-circle" href="#">
+                        <i class="fab fa-fw fa-dribbble"></i>
+                        </a>
+                     </li> -->
+                  </ul>
+               </div>
+               <div class="col-md-4">
+                   <h4 class="text-uppercase mb-4">Stack Overflow</h4>
+                <!--   <p class="lead mb-0">Freelance is a free to use, open source Bootstrap theme created by
+                     <a href="http://startbootstrap.com">Start Bootstrap</a>. -->
+                   <p class="lead mb-0">
+                     <a href="https://stackoverflow.com/users/4503339/shekhar-pande">
+            <img src="https://stackoverflow.com/users/flair/4503339.png" width="208" height="58" alt="profile for shekhar pande at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for shekhar pande at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+            </a>
+                  </p>
+                  </p>
+               </div>
+            </div>
+         </div>
+      </footer>
+      <div class="copyright py-4 text-center text-white">
+         <div class="container">
+           <!-- <small>Copyright &copy; Your Website 2018</small>-->
+         </div>
+      </div>
+      <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+      <div class="scroll-to-top d-lg-none position-fixed ">
+         <a class="js-scroll-trigger d-block text-center text-white rounded" href="#page-top">
+         <i class="fa fa-chevron-up"></i>
+         </a>
+      </div>
+      <!-- Portfolio Modals -->
+      <!-- Portfolio Modal 1 -->
+      <div class="portfolio-modal mfp-hide" id="portfolio-modal-1">
+         <div class="portfolio-modal-dialog bg-white">
+            <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+            </a>
+            <div class="container text-center">
+               <div class="row">
+                  <div class="col-lg-8 mx-auto">
+                     <h2 class="text-secondary text-uppercase mb-0">Project Name</h2>
+                     <hr class="star-dark mb-5">
+                     <img class="img-fluid mb-5" src="img/portfolio/cabin.png" alt="">
+                     <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                     <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="#">
+                     <i class="fa fa-close"></i>
+                     Close Project</a>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- Portfolio Modal 2 -->
+      <div class="portfolio-modal mfp-hide" id="portfolio-modal-2">
+         <div class="portfolio-modal-dialog bg-white">
+            <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+            </a>
+            <div class="container text-center">
+               <div class="row">
+                  <div class="col-lg-8 mx-auto">
+                     <h2 class="text-secondary text-uppercase mb-0">Natural Life Style (Health by Eating) </h2>
+                     <hr class="star-dark mb-5">
+                     <img class="img-fluid mb-5" src="img/portfolio/nsld.jpg" alt="">
+                     <p class="mb-5">Natural Life Style (Health by Eating) Mohan Gupta is video application youtube apis are used for get data. In that project I use glide and async http loopj.</p>
+                     <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="https://play.google.com/store/apps/details?id=com.myfilmindustry.nsl">
+                     <i class="fa fa-close"></i>
+                     Download</a>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- Portfolio Modal 3 -->
+      <div class="portfolio-modal mfp-hide" id="portfolio-modal-3">
+         <div class="portfolio-modal-dialog bg-white">
+            <a class="close-button d-none d-md-block portfolio-modal-dismiss" href="#">
+            <i class="fa fa-3x fa-times"></i>
+            </a>
+            <div class="container text-center">
+               <div class="row">
+                  <div class="col-lg-8 mx-auto">
+                     <h2 class="text-secondary text-uppercase mb-0">WAM India Kids</h2>
+                     <hr class="star-dark mb-5">
+                     <img class="img-fluid mb-5" src="img/portfolio/wikd.jpg" alt="">
+                     <p class="mb-5">WAM India Kids is video application, youtube apis are used for get data. In that project I use glide and async http loopj.</p>
+                     <a class="btn btn-primary btn-lg rounded-pill portfolio-modal-dismiss" href="https://play.google.com/store/apps/details?id=com.myfilmindustry.wikid&hl=en_US">
+                     <i class="fa fa-close"></i>
+                     Download</a>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+      <!-- Bootstrap core JavaScript -->
+      <script src="vendor/jquery/jquery.min.js"></script>
+      <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+      <!-- Plugin JavaScript -->
+      <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+      <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+      <!-- Contact Form JavaScript -->
+      <script src="js/jqBootstrapValidation.js"></script>
+      <script src="js/contact_me.js"></script>
+      <!-- Custom scripts for this template -->
+      <script src="js/freelancer.min.js"></script>
+   </body>
+</html>
+
+
